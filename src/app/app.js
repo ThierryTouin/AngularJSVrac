@@ -6,6 +6,7 @@
         'ui.router',
         'restangular',
         'home',
+        'playsound',
         'assessments',
         'common'
     ])
